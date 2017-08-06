@@ -1,4 +1,4 @@
-**[About me](about.md)** **[Projects](projects.md)**
+**[About me](about.md)** --- **[Projects](projects.md)**
 
 ## Welcome to GitHub Pages
 
