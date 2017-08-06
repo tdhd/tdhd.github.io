@@ -1,6 +1,4 @@
-# About me
-
-[click](about.md)
+[About me](about.md) [Projects](projects.md)
 
 ## Welcome to GitHub Pages
 
